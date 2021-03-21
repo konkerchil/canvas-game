@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/konkerchil/canvas-game#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "get-port": "^5.1.1"
   }
 }
