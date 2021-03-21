@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/konkerchil/canvas-game/issues"
   },
-  "homepage": "https://github.com/konkerchil/canvas-game#readme"
+  "homepage": "https://github.com/konkerchil/canvas-game#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
